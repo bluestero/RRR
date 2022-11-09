@@ -1,0 +1,13 @@
+Built a script for removing/replacing invalid job title.
+
+Description: 
+
+This script will run every month to  make sure the job tile doesn't have any error.
+
+Script will be doing following corrections:
+
+Remove Job title such as : Clerk, Plain, game etc
+
+Replace Job title such as : Editer replace with Editor, Journalis replace with Journalist.
+
+Redundant job title : eg. Editor, Editor. Eg2 Reporter, writer, writer.
