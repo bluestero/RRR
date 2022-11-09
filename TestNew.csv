@@ -3,10 +3,10 @@ reporter_id,designation,new_designation
 212961,Editor,Editor
 765444,"Writer, Analyst","Writer, Analyst"
 1070265,Founder,Founder
-216722,"Mangaka, Business Consulting,Mangaka, , Academic Writer, Academic and Freelance Journalist, Business Consulting, Mangaka","Manga Author, Manga Author, Writer, Freelance Journalist, Manga Author"
-1049119,"Editor, Academics Reporter, LMAO DEAD, Academic Writer","Editor, Reporter, LMAO DEAD, Writer"
-667251,"Editor, Business Consulting",Editor
-1280494,"Academic Writer, Med Radio Moroccan",Writer
+216722,"Mangaka, Business Consulting,Mangaka, , Academic Writer, , Academic and Freelance Journalist, Business Consulting, Mangaka","Mangaka, Business Consulting,  , Academic Writer,  , Academic and Freelance Journalist"
+1049119,"Editor, Academics Reporter, LMAO DEAD, Academic Writer","Editor, Academics Reporter, LMAO DEAD, Academic Writer"
+667251,"Editor, Business Consulting","Editor, Business Consulting"
+1280494,"Academic Writer, Med Radio Moroccan","Academic Writer, Med Radio Moroccan"
 1331701,"Copywriter, Editor","Copywriter, Editor"
 1287474,Managing Editor,Managing Editor
 1288074,Reporter,Reporter
@@ -19,7 +19,7 @@ reporter_id,designation,new_designation
 255193,News Director,News Director
 639685,Writer,Writer
 44425,Staff Writer,Staff Writer
-633885,"Academic Writer, Academic and Freelance Journalist","Writer, Freelance Journalist"
+633885,"Academic Writer, Academic and Freelance Journalist","Academic Writer, Academic and Freelance Journalist"
 204297,News Editor,News Editor
 321740,Editor,Editor
 671638,Author,Author
